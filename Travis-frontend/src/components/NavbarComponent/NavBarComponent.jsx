@@ -23,6 +23,17 @@ import { useEffect } from 'react'
 
 
 
+
+
+
+
+
+
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 const NavBarComponent = () => {
     const onChange = () => { }
     const renderContent = (type, options) => {

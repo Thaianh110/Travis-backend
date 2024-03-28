@@ -91,7 +91,7 @@ const HomePage = () => {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a  className="nav-link active" href="/product/Gom">
+                  <a  className="nav-link active" href="/product/">
                     {" "}
                     SẢN PHẨM
                   </a>
